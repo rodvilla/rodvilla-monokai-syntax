@@ -1,0 +1,15 @@
+{
+  "name": "rodvilla-monokai-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Monokai syntax theme tweaked to my likings.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/rodvilla/rodvilla-monokai-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
